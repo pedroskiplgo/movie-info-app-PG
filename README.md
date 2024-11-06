@@ -1,5 +1,3 @@
-# Day #11
-
 ### Movie Info App
 
 movie info app for users than wants know about cinema
